@@ -20,7 +20,8 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3",
     "node-nlp": "^5.0.0-alpha.5",
-    "socket.io": "^4.7.2"
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
